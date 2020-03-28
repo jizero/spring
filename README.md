@@ -1,10 +1,10 @@
-# 회원가입
+# new start protocol
 
 
 ## spec
 
 * java 1.8 + 
-* spirng 5springboot 
+* spirng 5 (springboot)
 * jpa
 * gradle
 * mysql 8.0
